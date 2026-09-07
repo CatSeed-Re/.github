@@ -58,4 +58,4 @@ Minecraft 1.7.10 Forge + Crucible（CraftBukkit API）服务器的自研插件�
 
 ## 详细文档
 
-各仓库 README 均包含功能介绍、命令/权限、配置示例与构建方式；完整项目索引见 [docs/CatSeed-Re-项目总览.md](https://github.com/CatSeed-Re/.github/blob/main/docs/CatSeed-Re-%E9%A1%B9%E7%9B%AE%E6%80%BB%E8%A7%88.md)。
+各仓库 README 均包含功能介绍、命令/权限、配置示例与构建方式；每个 README 顶部的 `**About**` 段落提供一句话项目简介。
